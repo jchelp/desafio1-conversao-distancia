@@ -34,3 +34,5 @@ docker login - garantir sucesso
 docker push jchelp/desafio1-conversao-distancia:v1
 
 docker push jchelp/desafio1-conversao-distancia:latest
+
+# Teste git push
